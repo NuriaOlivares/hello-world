@@ -1,2 +1,4 @@
 # hello-world
-Strating repository
+Starting repository
+
+Don't know fow this works but working on it
